@@ -9,7 +9,3 @@ function graficarComida(){
     ctx.fillStyle = "#00ff95ea"
     ctx.fillRect(0,0,100,100);
 }
-function iniciarJuego(){
-    graficarGato();
-    graficarComida();
-}
